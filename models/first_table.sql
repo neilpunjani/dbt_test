@@ -16,3 +16,9 @@ SELECT
     'Charlie' as name,
     28 as age,
     'Manager' as job
+UNION ALL
+SELECT 
+    4 as id, 
+    'Neil' as name, 
+    27 as age,
+    'Student' as job
