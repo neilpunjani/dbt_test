@@ -22,3 +22,9 @@ SELECT
     'Neil' as name, 
     27 as age,
     'Student' as job
+UNION ALL
+SELECT
+    5 as id, 
+    'Clayton' as name, 
+    23 as age, 
+    'Boss' as job
